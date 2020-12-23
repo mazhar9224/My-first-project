@@ -1,0 +1,18 @@
+hello world ! SSH  >> start.txt
+
+
+
+
+
+
+
+
+hello world:wq
+wq
+ 
+
+
+
+
+This is the git new repo
+ubuntu@ip-172-31-60-255:~/My-first-project$ echo hello world ! SSH 
